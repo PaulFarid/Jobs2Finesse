@@ -1,24 +1,18 @@
-https://www.youtube.com/watch?v=jhVALgKdGhE (sprint 2 demo)
-
-https://youtu.be/O6zP0C6G3sc (sprint 3 follow up)
-
-https://youtu.be/DKLo460W6Jg (sprint 3 demo)
-
 **Jobs2Finesse Platform!**
 
 **Members of the team:**
 
-William Nazarian id : 40213100 | Github username : WilliamNazarian
+William Nazarian
 
-Sana Antoun id : 40209806  | Github username : sanaantoun
+Sana Antoun
 
-Poula Farid id: 40208791 | Github username :  PaulFarid
+Poula Farid
 
-Ziad Elsharkawy  id: 40213438 | Github username : Ziadsharkos
+Ziad Elsharkawy
 
-Omar Alshanyour id : 40209637 | Github username : hellomefriend
+Omar Alshanyour
 
-Cleopatr-Aliak Manoukian id : 40211001| Github username : Kaianinja
+Cleopatr-Aliak Manoukian
 
 **Quick Description:** 
 
@@ -54,74 +48,3 @@ We will be using an Agile development approach through out our project and, to s
 The front and back-end will each have 2 team members working on them, while the database part of the project will be worked on by only one person. There will also be one person that will do a bit of front and back end to help get both sides on track and organize how both sides will be able to link their work and make the program functional. 
 
 Plan for next sprint : By the next sprint, we are planing on finishing the web- development courses assigned to team members that have less experience with the mentioned technologies. In addition, we will be discussing  the website front-end design to ensure that it will meet the requirements indicated in the document by understanding how the back-end will be linked to the front-end (i.e how will the database be linked to the website and how the backend functions will retrieve the information from the database). Finally, we will discuss the efficiency of the application by figuring out which data structures or which functions will have less time complexity to use.
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
